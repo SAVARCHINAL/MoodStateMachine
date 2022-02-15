@@ -1,15 +1,11 @@
 StateName,PNGFilename,TransitionText,NewState
-Relaxed,assets/relaxed.png,See a cute cat,Excited
-Relaxed,assets/relaxed.png,My roommates didn’t wash the dishes so I can't eat,Frustrated
-Angry,assets/angry.png,"Realize the person I was angry at does not care
-",Sad
-Angry,assets/angry.png,I do some breathing exercises,Relaxed
-Sad,assets/sad.png,i can't figure out why I'm crying,Frustrated
-Sad,assets/sad.png,"i have cried out all my tears
-",Relaxed
-Excited,assets/excited.png,"This assignment is not as easy as I thought it was
-",Frustrated
-Excited,assets/excited.png,"someone likes my best friend but the person i like
-",Angry
-Frustrated,assets/frustrated.png,I can't figure out a problem,Angry
-Frustrated,assets/frustrated.png,I figure out a solution,Excited
+Calm,assets/calm.png,Recieve a package,Excited
+Calm,assets/calm.png,Get a good grade,Happy
+Excited,assets/excited.png, Run out of money,Stressed
+Stressed,assets/stressed.png,take a bath,Calm
+Grounded,assets/grounded.png,Fail french exam,Angry
+Hopeless,assets/hopeless.png,Find a solution to my frustration,Happy
+Sad,assets/sad.png,Recieve a message from a loved one,Grounded
+Lonely,assets/lonely.png,wallow in self pity,Hopeless
+Angry,assets/excited.png, Self isolate,Lonely
+

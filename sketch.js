@@ -25,9 +25,12 @@ function setup() {
  }
 
 
+
 // Draw code goes here
 function draw() {
   drawBackground();
+  background(219, 94, 81);
+
   drawImage();
   drawUI();
 }
