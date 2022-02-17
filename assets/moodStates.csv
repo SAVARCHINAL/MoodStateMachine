@@ -1,11 +1,28 @@
 StateName,PNGFilename,TransitionText,NewState
 Calm,assets/calm.png,Recieve a package,Excited
-Calm,assets/calm.png,Get a good grade,Happy
-Excited,assets/excited.png, Run out of money,Stressed
-Stressed,assets/stressed.png,take a bath,Calm
+Lonely,assets/lonely.png,Make weekend plans,Excited
+Excited,assets/excited.png,Run out of money,Stressed
+Calm,assets/calm.png,Miss an assignment,Stressed
+Stressed,assets/stressed.png,Take a bath,Calm
+Angry,assets/angry.png,Drink a glass of wine,Calm
 Grounded,assets/grounded.png,Fail french exam,Angry
-Hopeless,assets/hopeless.png,Find a solution to my frustration,Happy
-Sad,assets/sad.png,Recieve a message from a loved one,Grounded
-Lonely,assets/lonely.png,wallow in self pity,Hopeless
-Angry,assets/excited.png, Self isolate,Lonely
+Happy,assets/happy.png,Street Poopers,Angry
+Hopeless,assets/hopeless.png,Find solution to frustration,Happy
+Sad,assets/sad.png,Watch the sunset,Happy
+Sad,assets/sad.png,Recieve a sweet message,Grounded
+Excited,assets/excited.png,Meditate,Grounded
+Lonely,assets/lonely.png,Wallow in self pity,Hopeless
+Stressed,assets/stressed.png,Computer crashes,Hopeless
+Angry,assets/angry.png,Isolate myself,Lonely
+Happy,assets/happy.png,Social battery runs out,Lonely
+Grounded,assets/grounded.png,A friend is going through it,Sad
+Hopeless,assets/hopeless.png,Bad situation esculates,Sad
+
+
+
+
+
+
+
+
 
